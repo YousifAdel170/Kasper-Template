@@ -285,7 +285,7 @@ header .links li a:hover {
 
 /* Start Landing Section */
 .landing {
-    background-image: url('../imgs/landing.jpg');
+    background-image: url("../imgs/landing.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
@@ -504,7 +504,7 @@ header .links li a:hover {
 
 /* Start Design Section */
 .design {
-    background-image: url('../imgs/design-features.jpg');
+    background-image: url("../imgs/design-features.jpg");
     position: relative;
     height: 600px;
     background-size: cover;
@@ -804,7 +804,7 @@ header .links li a:hover {
 
 /* Start Status Section */
 .status {
-    background-image: url('../imgs/stats.png');
+    background-image: url("../imgs/stats.png");
     position: relative;
     padding-top: var(--section-padding);
     padding-bottom: var(--section-padding);
@@ -1206,7 +1206,7 @@ header .links li a:hover {
 .subscribe {
     padding-top: var(--section-padding);
     padding-bottom: var(--section-padding);
-    background-image: url('../imgs/subscribe.jpg');
+    background-image: url("../imgs/subscribe.jpg");
     background-size: cover;
     position: relative;
 }
