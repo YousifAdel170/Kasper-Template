@@ -16,10 +16,10 @@ Welcomes visitors with an eye-catching introductory message and call-to-action b
 Lists the main services provided, each accompanied by icons and brief descriptions.
 ### 4. Design Section
 #### Highlights key design principles followed in the template:
-#### Responsive Design: Ensures the website adjusts and looks great on all device sizes.
-#### Modern and Clean Design: Focuses on simplicity, making the content the focal point.
-#### Clean Code: Written with best practices, making it easy to maintain and extend.
-#### Browser Friendly: Compatible with all major web browsers.
+##### Responsive Design: Ensures the website adjusts and looks great on all device sizes.
+##### Modern and Clean Design: Focuses on simplicity, making the content the focal point.
+##### Clean Code: Written with best practices, making it easy to maintain and extend.
+##### Browser Friendly: Compatible with all major web browsers.
 ### 5. Portfolio Section
 Showcases a collection of recent work or projects with images and brief descriptions.
 ### 6. Video Section
