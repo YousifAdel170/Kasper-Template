@@ -16,10 +16,10 @@ Welcomes visitors with an eye-catching introductory message and call-to-action b
 Lists the main services provided, each accompanied by icons and brief descriptions.
 ### 4. Design Section
 #### Highlights key design principles followed in the template:
-##### Responsive Design: Ensures the website adjusts and looks great on all device sizes.
-##### Modern and Clean Design: Focuses on simplicity, making the content the focal point.
-##### Clean Code: Written with best practices, making it easy to maintain and extend.
-##### Browser Friendly: Compatible with all major web browsers.
+##### a. Responsive Design: Ensures the website adjusts and looks great on all device sizes.
+##### b. Modern and Clean Design: Focuses on simplicity, making the content the focal point.
+##### c. Clean Code: Written with best practices, making it easy to maintain and extend.
+##### d. Browser Friendly: Compatible with all major web browsers.
 ### 5. Portfolio Section
 Showcases a collection of recent work or projects with images and brief descriptions.
 ### 6. Video Section
@@ -29,13 +29,13 @@ Provides an overview of the business or individual behind the website, outlining
 ### 8. Stats Section
 Displays important statistics such as the number of projects completed, clients served, or awards received.
 ### 9. Testimonials and Skills Section
-#### Testimonials: Highlights feedback from clients or users, adding credibility to the services.
-#### Skills: Visual indicators such as progress bars or percentages that display proficiency in various skills (e.g., HTML, CSS, JavaScript).
+#### a. Testimonials: Highlights feedback from clients or users, adding credibility to the services.
+#### b. Skills: Visual indicators such as progress bars or percentages that display proficiency in various skills (e.g., HTML, CSS, JavaScript).
 ### Pricing Section
 Offers different pricing packages for services with details on what each package includes:
-#### Basic Plan
-#### Advanced Plan
-#### Professional Plan
+#### a. Basic Plan
+#### b. Advanced Plan
+#### c. Professional Plan
 ### 11. Contact Us Section
 Provides a form or contact details (email, phone, address) for visitors to get in touch with the website owner or business.
 ### Footer
